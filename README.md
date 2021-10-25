@@ -1,7 +1,7 @@
 # excel-challenge
 ## About Kickstart My Chart
 
-`Kickstart My Chart` is an Excel data analytics home-project that cleans, analyzes, and charts Excel data.
+`Kickstart My Chart` is an Excel data analytics endeavor that cleans, analyzes, and charts Excel data.
 
 ## Built with
 - Excel
