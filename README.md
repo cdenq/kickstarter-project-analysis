@@ -6,12 +6,12 @@
 ## Built with
 - Excel
 
-## Technical Techniques
+## Technical Skills
 - Cleaning, sorting, filtering
 - Summary statistics, pivot tables
 - Plotting
 
-## Qualitative Techniques
+## Qualitative Skills
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
