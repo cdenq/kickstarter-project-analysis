@@ -1,7 +1,7 @@
-# excel-challenge
+# kickstarter-project-analysis
 ## About Kickstart My Chart
 
-`Kickstart My Chart` is an Excel data analytics endeavor that cleans, analyzes, and charts Excel data.
+`Kickstart My Chart` is an Excel data analytics challenge that cleans, analyzes, and visualizes Kickstarter project data. Exploratory data analysis provides insight into campaign features most contributive to successful projects.
 
 ## Built with
 - Excel
